@@ -1,1 +1,2 @@
+calc
 write-host "Pwned! - Sorry your computer ha been compromised"
